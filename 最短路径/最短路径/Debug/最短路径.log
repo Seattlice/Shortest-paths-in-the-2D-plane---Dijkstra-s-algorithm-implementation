@@ -1,0 +1,7 @@
+﻿  主程序.cpp
+c:\users\思念\source\repos\最短路径\最短路径\图的读入.h(33): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\思念\source\repos\最短路径\最短路径\图的读入.h(34): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\思念\source\repos\最短路径\最短路径\图的读入.h(49): warning C4101: “a”: 未引用的局部变量
+c:\users\思念\source\repos\最短路径\最短路径\图的读入.h(49): warning C4101: “y”: 未引用的局部变量
+c:\users\思念\source\repos\最短路径\最短路径\图的读入.h(49): warning C4101: “x”: 未引用的局部变量
+  最短路径.vcxproj -> C:\Users\思念\source\repos\最短路径\Debug\最短路径.exe
